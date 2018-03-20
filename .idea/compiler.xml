@@ -14,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="server" target="1.8" />
+      <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="springcloudlearn" target="1.5" />
