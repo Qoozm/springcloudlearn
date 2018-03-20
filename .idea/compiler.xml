@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="server" />
         <module name="service-hi" />
+        <module name="service-ribbon" />
         <module name="springcloudlearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="server" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
       <module name="springcloudlearn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
